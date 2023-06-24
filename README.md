@@ -1,4 +1,4 @@
 # Inventory-System-with-POS
-Android App
 This is my first project created.
- An Inventory system with POS
+ It is an android application that handles the Inventory System of a business
+ and also its Point-Of-Sale (POS).
